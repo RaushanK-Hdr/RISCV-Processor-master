@@ -1,4 +1,4 @@
-# RISC V PROCESSOR Micro-Architecture
+# RISC V Processor Micro-Architecture
 ![Architecture](https://github.com/user-attachments/assets/7dd9c2f2-2a47-4d89-a4bd-4aec25788723)
 
 # RISC V ISA (RV32I)
